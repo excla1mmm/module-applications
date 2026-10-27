@@ -8,10 +8,10 @@
 config_version: 1
 
 images:
-  - version: "2026.6.34"
+  - version: "2026.6.43"
     image: docker.io/mikopbx/mikopbx
-    tag: "2026.6.34"
-    digest: sha256:ff5cc0238a4e170bfbf8c0be9a59b58c8affb6fb24b36d1506f5fc0cb41f7691
+    tag: "2026.6.43"
+    digest: sha256:ed0ba54e2f9a6fad4a7b98249893f5f839b533d1845c769e31a8f9b4e6d1fa44
     platforms:
       x86_64: sha256:50ed89821560291b7928e92390f7a844e065c9138c5e7221c63370cf41fe1f5d
       arm64: sha256:3af27a8ecc070108bdde4a2e3939407eeda0574896e55a547ee221973d0b6a6c
