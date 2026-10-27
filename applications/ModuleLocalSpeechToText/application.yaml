@@ -1,0 +1,14 @@
+schema_version: 1
+module_id: ModuleLocalSpeechToText
+publisher_id: 144251268
+name: Local Speech-to-Text
+description: Transcribes MikoPBX call recordings with local speech-to-text workers (macOS, Linux, Windows) instead of a cloud service.
+repo: https://github.com/excla1mmm/ModuleLocalSpeechToText
+commit: 8aa9fa1cea8367be31fd3b54470caf4de4fd1395
+license: GPL-3.0-or-later
+support_email: help@miko.ru
+maintainers: [excla1mmm]
+compatibility:
+  min_pbx_version: "2025.1.1"
+  max_pbx_version: null
+  architectures: [x86_64, arm64]
