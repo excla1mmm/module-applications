@@ -8,13 +8,13 @@
 config_version: 1
 
 images:
-  - version: "2026.6.34"
+  - version: "2026.9.5"
     image: docker.io/mikopbx/mikopbx
-    tag: "2026.6.34"
-    digest: sha256:ff5cc0238a4e170bfbf8c0be9a59b58c8affb6fb24b36d1506f5fc0cb41f7691
+    tag: "2026.9.5"
+    digest: sha256:54fa4c732a3cb6327798d18b4cb811083eeeaae5fda23ac58c494c81fb557e36
     platforms:
-      x86_64: sha256:50ed89821560291b7928e92390f7a844e065c9138c5e7221c63370cf41fe1f5d
-      arm64: sha256:3af27a8ecc070108bdde4a2e3939407eeda0574896e55a547ee221973d0b6a6c
+      x86_64: sha256:6326b3502a77484c97a5c7df18f9e73b57275373100117a00de23824f0e87337
+      arm64: sha256:a6042e05910954ab195f32bebe789b2ab48b3b560a2284d914bcd3b00b220d6e
 
 # Limits for the MikoPBX container that runs the module.
 container:
